@@ -12,4 +12,4 @@ Los archivos que se encuentran en este repositorio son
 * GPGAC.py  -> Algoritmo Genético que encuentra la secuencia de modificaciones sobre el grafo que da lugar a la mejor clasificacion
 * Movimientos.py  -> Cada uno de los movimientos considerados que pueden aparecer como cromosoma. Cada uno tiene una forma de mutar y de inicializar diferente
 * main.py  -> Código empleado para clasificar cada uno de los datasets y representar los bidimensionales. Sirve a modo de ejemplo de uso
-* 
+* TFM Jose Ignacio Alba.pdf  -> Memoria final del trabajo
